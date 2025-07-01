@@ -1,5 +1,10 @@
 # Retail Sales Forecasting Assignment
 
+**Student Name**: Lalit Nayyar  
+**Email ID**: lalitnayyar@gmail.com  
+**Assignment**: Week 12: Required Assignment 12.2  
+**University**: IIMK – Professional Certificate in Data Science and Artificial Intelligence for Managers
+
 ## Overview
 This project analyzes and forecasts retail sales using Python, pandas, and Facebook Prophet. It includes scenario analysis, business recommendations, and time series forecasting on a real-world retail dataset.
 
